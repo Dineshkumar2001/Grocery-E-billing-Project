@@ -1,4 +1,8 @@
-// E-billing Project By Rahul
+// E-billing Project By Dinesh Kumar S , Dr.N.G.P.Institute of Tecnology
+
+// GitHub Repository Link : https://github.com/Dineshkumar2001/Grocery-E-billing-Project
+
+
 #include<iostream>
 #include<iomanip>
 #include<conio.h>
